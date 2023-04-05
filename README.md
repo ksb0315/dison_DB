@@ -10,7 +10,7 @@
 > > Python.Numpy   : 고급
 
 ## 실행 과정
-0. 필요 패키지/툴 설치
+0. 'dison_DB/test_DB/for_test.ipynb'에서 필요 패키지/툴 설치
 - `pip install pymongo`
 - `pip install pandas`
   - 더 빠른 속도를 위해 pandas.modin 추천
