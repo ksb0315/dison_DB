@@ -27,6 +27,7 @@
   vii)  combine Method : 추출했던 features에 대한 data를 새로운 df형태로 추출<br><br>
   
 2. `Raw` class 실행
+- 경로(`p`변수)설정 필수!
 - 데이터 수집 및 데이터베이스 관리를 담당하는 객체<br>
   i)    \__init\__ Method : 데이터베이스 연결<br>
   ii)   DataTuning Method : 원본 데이터의 경로와 원본 데이터의 이름을 매개변수로 df 형태로 추출<br>
