@@ -6,8 +6,8 @@
 > 기술 스택
 > > MongoDB : 중급 <br>
 > > Python  : 고급
-> > > Pandas  : 고급 <br>
-> > > Numpy   : 고급
+> > Python.Pandas  : 고급 <br>
+> > Python.Numpy   : 고급
 
 ## 실행 과정
 0. 필요 패키지/툴 설치
