@@ -4,9 +4,9 @@
   - Raw data용, 전처리/후처리된 data용 DB 설계 및 구축
  
 > 기술 스택
-> > MongoDB : 중급
+> > MongoDB : 중급 <br>
 > > Python  : 고급
-> > > Pandas  : 고급
+> > > Pandas  : 고급 <br>
 > > > Numpy   : 고급
 
 ## 실행 과정
